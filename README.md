@@ -10,7 +10,7 @@
 |--------------|-----------------------------------------------------------------------------------------------|
 | 1:00–1:30 pm | Welcome & Introduction: Hackathon goals, structure, dataset scope                             |
 | 1:30–2:15 pm | Keynote #1: *"tbh”* (Christopher Kadow, DKRZ)                                                 |
-| 2:15–3:00 pm | Keynote #2: *"Deep Learning"* (Zahra Zali, GFZ)”                                              |
+| 2:15–3:00 pm | Keynote #2: *"Deep Learning"* (Zahra Zali, GFZ)                                               |
 | 3:00–3:25 pm | Break                                                                                         |
 | 3:25–4:10 pm | Team Formation & Icebreaker Activities. Form and connect teams                                |
 | 4:10–5:15 pm | Brainstorming & Dataset Exploration  First look at data and ideas and preparation for Day 2   |
