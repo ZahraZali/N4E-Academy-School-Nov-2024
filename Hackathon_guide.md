@@ -21,6 +21,7 @@ Please note that the timetable and steps are guidelines, feel free to deviate fr
 
 ## ML Workflow Reference
 <img width="611" height="211" alt="ML_Workflow" src="https://github.com/user-attachments/assets/2b870e3d-c9e3-4c2c-adda-41bd1da1ac44" />
+
 Figure 1. Generalised overview of Machine Learning workflow
 
 
