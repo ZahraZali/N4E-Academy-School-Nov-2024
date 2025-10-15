@@ -1,6 +1,7 @@
 # NFDI4Earth Academy School (Agenda)
 
 **Location**: [International Maritime Museum Hamburg](https://www.imm-hamburg.de/)
+
 [**Read the Hackathon guide here**](https://github.com/ZahraZali/N4E-Academy-School-Nov-2024/blob/main/Hackathon_guide.md)
 
 ### November 12 – Kickoff & Ideation
