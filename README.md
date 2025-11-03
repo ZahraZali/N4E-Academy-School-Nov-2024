@@ -44,3 +44,5 @@ After Dinner, Short evening stroll to the [Elbphilharmonie](https://www.elbphilh
 | 12:30–12:45 pm   | Closing & Thank You                                      |
 | 12:45 pm         | Lunch                                                    |
 
+About the workshop
+“Explainable AI (XAI) comprises methods that make the analytical rationale behind AI model outputs understandable to humans. In this workshop, participants will use a Visual Analytics system to explore the analytical rationale of a random forest classification model for constructing specific classes, discuss the conceptual foundations of specific XAI techniques, and gain hands-on experience applying these techniques to the random forest classification model. Participants will receive a link to a repository containing the Visual Analytics system one week before the workshop begins.”
