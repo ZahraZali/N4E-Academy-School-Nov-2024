@@ -30,7 +30,7 @@ Focus: Collaborative model-building and critical thinking around machine learnin
 | 12:30–1:30 pm  | Lunch Break                                                  |
 | 1:30–2:30 pm   | Work Block #4: Classification baseline                       |
 | 2:30–3:30 pm   | Work Block #5: Classification improvement                    |
-| 3:30–5:00 pm   | Work Block #5: Classification improvement                    |
+| 3:30–5:00 pm   | Work Block #5: Presentation preparation                      |
 | 5:00–6:00 pm   | Team Presentations (7–10 min per team, incl. brief Q&A)      |                                  
 | 6:00–6:30 pm   | Plenary Discussion: Reflections, challenges, key learnings   |
 | 7:00 pm        | Dinner                                                       |
