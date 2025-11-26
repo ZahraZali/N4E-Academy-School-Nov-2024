@@ -1,4 +1,4 @@
-# NFDI4Earth Academy School (Agenda)
+# NFDI4Earth Academy School 
 
 **Location**: [International Maritime Museum Hamburg](https://www.imm-hamburg.de/)
 
